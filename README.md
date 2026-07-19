@@ -11,7 +11,8 @@ confirmed project requests.
 - Produce a provider-neutral next-step checklist.
 - Submit a project request only after you review the exact brief and explicitly
   confirm it.
-- Check the minimal status of a request only with its private case token.
+- Receive Project Desk follow-up through the confirmed contact email; the MCP
+  server does not return case identifiers or bearer credentials.
 
 ## Security and data boundary
 
