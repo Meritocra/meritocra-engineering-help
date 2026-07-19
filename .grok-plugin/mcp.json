@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "meritocra-engineering-help": {
+      "type": "http",
+      "url": "https://meritocra.com/api/engineering-help/mcp"
+    }
+  }
+}
